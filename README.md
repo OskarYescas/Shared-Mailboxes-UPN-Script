@@ -2,7 +2,7 @@
 
 This script pre-processes Microsoft 365 / Exchange Online mailbox export CSVs to ensure **100% resolution** when scanning Shared Mailboxes in the **Google Workspace Migration Planner**.
 
-## 📋 Prerequisites & Requirements
+## Prerequisites & Requirements
 
 Before running this script in a environment, ensure you have:
 
@@ -21,7 +21,7 @@ The admin account running the script must have at least one of the following rol
 
 ---
 
-## 🚀 Step-by-Step Guide
+## Step-by-Step Guide
 
 ### Step 1: Prepare the CSV
 Obtain the list of shared mailboxes.
@@ -95,7 +95,7 @@ OUTPUT FILES GENERATED:
 
 ---
 
-## 📄 Output Files Reference
+## Output Files Reference
 
 | File Name | Description | Purpose |
 | :--- | :--- | :--- |
